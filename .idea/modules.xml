@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Genius_App.iml" filepath="$PROJECT_DIR$/Genius_App.iml" />
+      <module fileurl="file://C:\Users\amirz\Desktop\HackFest\Genius_App\Genius_App.iml" filepath="C:\Users\amirz\Desktop\HackFest\Genius_App\Genius_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\amirz\Desktop\HackFest\Genius_App\app\app.iml" filepath="C:\Users\amirz\Desktop\HackFest\Genius_App\app\app.iml" />
+    </modules>
+  </component>
+</project>

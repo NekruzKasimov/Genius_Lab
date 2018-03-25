@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Вы чувствуете запах табака на личных вещах вашего ребенка?",
+    "url" : "http://mrhow.ru/uploads/posts/2014-11/1416093638_kak-bystro-udalit-zapah-tabachnogo-dyma-v-kvartire1.jpg"
+  },
+  {
+    "question": "Ваш ребенок жует жевачку при общении со взрослыми?",
+    "url" : "http://www.topnews.ru/upload/news/2013/12/1a5e96d8/1a5e96d8_1.jpg"
+  },
+
+  {
+    "question": "Ваш ребенок просит больше карманнынх денег, чем ему необходимо?",
+    "url" : "http://zdd.1september.ru/2008/03/13_01.gif"
+  },
+
+  {
+    "question": "Ваш ребенок стал отдаляться от вас физически?",
+    "url" : "http://mchildren.ru/wp-content/uploads/2017/06/ne-krichat-620x420.jpg"
+  },
+
+  {
+    "question":"Друзья вашего ребенка курят?",
+    "url" : "http://teens.drugabuse.gov/sites/default/files/Smoking-on-TV_Optimized.jpg"
+  }
+
+]

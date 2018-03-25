@@ -1,0 +1,48 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/backgroundColorFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.niko.genius_app.test.fragment.QuestionsFragment">
+
+
+        <ImageView
+            android:id="@+id/pic_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="0dp"
+            android:background="#393939"
+            android:maxHeight="200dp"
+            android:maxWidth="200dp"
+            android:minHeight="200dp"
+            android:minWidth="200dp" />
+
+        <TextView
+            android:id="@+id/text_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#393939"
+            android:padding="10dp"
+            android:text="Text"
+            android:paddingLeft="12dp"
+            android:paddingEnd="12dp"
+            android:textColor="#dcffffff"
+            android:textSize="19sp"
+            android:textStyle="bold" />
+
+
+        <com.niko.genius_app.utils.ExpandableHeightListView
+            android:id="@+id/list_id"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+</ScrollView>

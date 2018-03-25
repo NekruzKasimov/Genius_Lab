@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Ваш ребенок часто задерживается в сети (социальных сетях/играх) дольше, чем планировал изначально  ?",
+    "url" : "http://nhero.ru/wp-content/uploads/2017/04/vliyanie-gadzhetov-na-psixiku.png"
+  },
+  {"question": "Вы часто жалуетесь на то, что за компьютером ваш ребенок проводит слишком много времени?",
+    "url" : "http://psy-help-city.ru/assets/main/CdsoFcCWEAA4-Np.jpg"
+  },
+  {
+    "question": "Ваш ребенок игнорирует свои домашние обязанности, так как ему не хватает на них времени из-за интернета (социальных сетей/игр?",
+    "url" : "http://vkus-zdorovya.ru/uploads/posts/2015-04/1428259740_4.jpg"
+  },
+  {
+    "question": "Ваш ребенок пролистывает ленту в социальных сетях перед тем как заняться действительно необходимыми делами",
+    "url" : "https://g4.dcdn.lt/images/pix/programeles-66858192.jpg"
+  },
+  {
+    "question":"ваш ребенок часто ложиться спать позже запланированного из-за того, что предпочитает оставаться в интернете (социальных сетях/играх) немного дольше,",
+    "url" : "http://www.livekuban.ru/upload/iblock/20b/son.jpg"
+  },
+  {
+    "question": "Ваш ребенок занимает «оборонительную» позицию, когда кто-то задает вопрос о том, что он делает в интернете?",
+    "url" : "https://childdevelop.ru/doc/images/news/33/3339/poslushanie2_i.jpg"
+  },
+  {
+    "question": "Столкнувшись с реальной трудностью, ваш ребенок сразу же уходит в интернет (социальные сети/игры)?",
+    "url" : "http://i.wp.pl/a/f/jpeg/29801/dziecko-programowanie-klawiatura-kod-gizm-660.jpeg"
+  },
+  {
+    "question": "Ваш ребенок уделяет своему виртуальному персонажу гораздо больше внимания, чем себе в реальности?",
+    "url" : "http://torrent9.ru/uploads/posts/2017-03/1490009065_3.jpg"
+  },
+  {
+    "question": "Ваш ребенок активно и регулярно участвует в обсуждении игры/ жизни пользователей социальной сети?",
+    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy8MDRyLbqWOMGc8h8HKMZdD4MVNwkxfN6O3ZtZwWPHZ5p_vhRvg"
+  }
+]
